@@ -164,13 +164,13 @@ classDiagram
 
 ### Mock-up
 
-![alt text](<login sin formato.PNG>)
-![alt text](<salir sin fromato.PNG>)
+![alt text](<img/login-sin-formato.PNG>)
+![alt text](<img/salir-sin-fromato.PNG>)
 
 ### Resultado Final
 
-![alt text](<login con format.PNG>)
-![alt text](<salir con format.PNG>)
+![alt text](<img/login-con-format.PNG>)
+![alt text](<img/salir-con-format.PNG>)
 
 ## 9. Partes Resaltables del Código
 
